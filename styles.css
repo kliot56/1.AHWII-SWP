@@ -1,0 +1,18 @@
+h1 {
+    border-bottom: 5px dashed rgb(22, 146, 53);
+    color: brown;
+    font-variant: small-caps;
+    /* Kleinbuchstaben als kleine Großbuchstaben dasrtellen*/
+}
+
+body {
+    border-bottom: 1px dashed black;
+       color: brown;
+       font-size: x-large;
+}
+button {
+    font-size: large;
+}
+p {
+    font size: smaller;
+}
