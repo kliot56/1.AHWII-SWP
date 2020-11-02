@@ -1,0 +1,36 @@
+h1 {
+    border-bottom: 5px dashed rgb(22, 146, 53);
+    color: blue;
+    font-variant: small-caps;
+    /* Kleinbuchstaben als kleine Großbuchstaben dasrtellen*/
+}
+
+body {
+    border-bottom: 1px dashed black;
+       color: black;
+       font-size: x-large;
+}
+button {
+    font-size: large;
+    color: black;
+}
+a {
+    color: black;
+}
+iframe {
+    border-right: black;
+}
+.date {
+    font-weight: bold;
+    color: red;
+}
+ul.a {
+    list-style-type: circle;
+}
+ol.d {
+    list-style-type: lower-alpha;
+}
+ol {
+    background: firebrick;
+    padding: 30px;
+  }
