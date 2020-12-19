@@ -1,0 +1,35 @@
+h1 {
+    border-bottom: dashed 1px;
+}
+
+ul {
+    list-style-type: disc;
+    font-size: large;
+}
+
+ol {
+    font-size: large;
+    list-style-type: lower-alpha;
+}
+
+progress {
+    background: fixed;
+    color: green;
+    height: 15px;
+    background-color: gray;
+    border-radius: 20px;
+}
+
+html {
+    background-color: rgb(233, 245, 168);
+}
+
+img {
+    box-shadow: 20px 30px 40px black;
+    border-radius: 18px;
+    margin-right: 35px;
+}
+
+p {
+    font-size: larger;
+}
